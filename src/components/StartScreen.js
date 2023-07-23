@@ -16,7 +16,7 @@ function StartScreen({ maxNumQuestions, numQuestions, dispatch, difficulty }) {
           <option value="10">Easy</option>
           <option value="20">Medium</option>
           <option value="30">Hard</option>
-          <option value="40">Just give me all the questions!</option>
+          <option value="40">Whatever!</option>
         </select>
       </h3>
       <h3>
